@@ -4,7 +4,7 @@
 nano botbera.js
 ```
 ##  حالا تمام این دستورات رو کپی و پیست میکنیم بدون تغییری
-
+```
 const readline = require('readline');
 const Web3 = require('web3');
 
@@ -67,6 +67,7 @@ rl.question('Enter your private key: ', (privateKey) => {
     });
   });
 });
+```
 
 ##  حالا ctrl +x+y 
 ##  دکمه اینتر رو میزنیم
